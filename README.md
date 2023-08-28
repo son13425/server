@@ -62,4 +62,4 @@ telnet 127.0.0.1 8000
 
 
 ## Лицензия
-Проект выпущен под лицензией [MIT](https://github.com/son13425/server/blob/main/COPYING.txt)
+Проект выпущен под лицензией [MIT](https://github.com/son13425/server/blob/main/LICENSE)
